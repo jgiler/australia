@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+  }
+  
+  .main-header {
+    width: 100%;
+    height: 120vh;
+    background: 
+      linear-gradient(0deg, #fff, transparent 10%),
+      url(https://i1.wp.com/outoftownblog.com/wp-content/uploads/2018/11/Best-Things-to-do-in-Sydney-Australia-photo-by-Keith-Zhu-via-Unsplash.jpg?fit=1500%2C1000&ssl=1);
+    background-size: cover;
+    padding-top: 80px;
+  }
+  
+  h1 {
+    color: lightblue;
+    display: inline-block;
+    font-size: 90px;
+    text-shadow: 5px 5px 15px #222;
+    margin-top: 10px;
+  }
+  
+  h2 {
+    margin: 30px;
+  }
+  
+  p {
+    margin: 30px 25%;
+  }
+  
+  .map {
+    border-radius: 15px;
+    width: 700px; 
+    height: 600px;
+  }
+  
+  .reef {
+    border-radius: 15px;
+    width: 700px;
+    height: 600px;
+  }
+  
+  .koala {
+    border-radius: 15px;
+    width: 700px;
+    height: 600px;
+  }
+  
