@@ -13,11 +13,17 @@
     float: left;
     background: clear;
   }
+
+  .logo:hover {
+    background-color: skyblue;  
+    transition: 1s;
+  }
   
   nav {
     width: 100%;
     height: 80px;
-    background-color: #000;
+    background-color: rgb(8, 11, 15);
+    opacity: .7;
     line-height: 80px;
     position: fixed;
     top: 0;
@@ -26,11 +32,12 @@
   nav ul li {
     list-style-type: none;
     display: inline-block;
-    transition: 0.8s;
+    
   }
   
   nav ul li:hover {
     background-color: skyblue;
+    transition: 1s;
   }
   
   nav ul li a {

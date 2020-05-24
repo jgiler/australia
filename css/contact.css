@@ -47,7 +47,9 @@ body {
   }
   
   
-  
+  .data label {
+      display: block;
+  }
   
   
     
